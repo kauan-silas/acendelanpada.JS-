@@ -1,1 +1,1 @@
-# acendelanpada.JS-
+# acendelampada.JS-
